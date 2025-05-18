@@ -1,6 +1,6 @@
-<h1 align="center">I’m Eyal — I write code, ask questions, and turn data into direction</h1>
+<h1 align="center">Hey, I'm Eyal 👋</h1>
 
-<h3 align="center">I write code, ask questions, and turn data into direction</h3>
+<h3 align="center">I write code and turn data into direction</h3>
 <h4 align="center">There is nothing more thrilling than transforming raw data into meaningful insights!</h4>
 
 <h4 align="center">
