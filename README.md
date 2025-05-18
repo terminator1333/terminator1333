@@ -1,5 +1,6 @@
 <h3 align="center">There is nothing more thrilling than turning data into useful insights!</h3>
-<h3 align="center">Passionate Data Science student 📊💻🔬 @BGU</h3>
+<h3 align="center">🚀 Data Science Enthusiast | 📊 Crunching Data @ BGU 💻🔬</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terminator1333" alt="terminator1333" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
