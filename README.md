@@ -1,7 +1,9 @@
 <h3 align="center">I’m Eyal — I write code, ask questions, and turn data into direction</h3>
 <h3 align="center">There is nothing more thrilling than turning data into useful insights!</h3>
-<h3 align="center">📊 Data Science @ BGU | 🚀 Focused on insight & impact</h3>
-<h4 align="center">Who needs Google Drive when GitHub looks this good?</h4>
+<h3 align="center">📊 Data Science @ BGU, 2nd year  | 🚀 Focused on insight & impact | 🎓 GPA: 96.68, Faculty's honours list </h3>
+<h4 align="center">☁️ This GitHub is way cooler than my Google Drive</h4>
+<h4 align="center">📝 I mostly upload assignments here | 🌱 Currently taking IBM’s Machine Learning course</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terminator1333&label=Data%20Cookie%20Crumblers%F0%9F%8D%AA&color=669c35&style=flat" alt="terminator1333" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terminator1333" alt="terminator1333" /></a> </p>
