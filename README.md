@@ -19,12 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=terminator1333&label=Data+Cookie+Crumblers+🍪&color=669c35&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=terminator1333&theme=dracula&column=4" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🌐 Connect with Me
@@ -67,6 +61,15 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=terminator1333&theme=tokyonight&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator1333&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
+
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=terminator1333&theme=dracula&column=4" alt="Trophies" />
+  </a>
 </p>
 
 ---
