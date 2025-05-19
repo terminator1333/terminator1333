@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVmb2FjaDRhNGg4M2tyZjh4djYwamdna2pjdmhhMWQ3ZmJpYzhyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif" width="400" alt="Data gif">
 </p>
-<h3 align="center">I write code and turn data into direction</h3>
 <h4 align="center">There is nothing more thrilling than transforming raw data into meaningful insights!</h4>
 
 <h4 align="center">
