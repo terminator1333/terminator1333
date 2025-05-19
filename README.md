@@ -6,8 +6,7 @@
 
 <h4 align="center">
   📊 2nd-Year Data Science Student @ BGU  
-  | 🎓 GPA: 96.68 — Faculty's Honours List  
-  | 🚀 Focused on Insight & Impact  
+  | 🎓 Faculty's Honours List
 </h4>
 
 <h4 align="center">☁️ This GitHub is way cooler than my Google Drive</h4>
