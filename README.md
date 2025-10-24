@@ -5,7 +5,7 @@
 <h4 align="center">There is nothing more thrilling than transforming raw data into meaningful insights!</h4>
 
 <h4 align="center">
-  📊 2nd-Year Data Science Student @ BGU  
+  📊 3nd-Year Data Science Student @ BGU  
   | 🎓 Faculty's Honours List
 </h4>
 
