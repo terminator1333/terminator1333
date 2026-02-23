@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ANIMATED HEADER WAVE -->
@@ -8,16 +7,14 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Turning+raw+data+into+meaningful+stories;3rd-Year+Data+Science+%40+BGU;Co-author+%7C+ICLR+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Turning+raw+data+into+meaningful+stories;3rd-Year+Data+Science+%40+BGU;Co-author+%7C+ICLR+2026;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVmb2FjaDRhNGg4M2tyZjh4djYwamdna2pjdmhhMWQ3ZmJpYzhyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif" width="280" alt="Data gif">
 
 </div>
-
-<br/>
 
 ---
 
@@ -35,16 +32,13 @@ research:
   venue: ICLR 2026 (co-author)
   topic: LLM safety via activation-based monitoring
 
-currently: Research Assistant @ Offensive AI Lab 
+currently: Research Assistant @ Offensive AI Lab
 
 fun_fact: This GitHub is way cooler than my Google Drive
 ```
 
 <div align="center">
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-
 </div>
 
 <h2>📄 Research</h2>
@@ -70,36 +64,96 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 </div>
 
-<h2>🔍 Featured Project</h2>
+<h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Projects</h2>
+
+<!-- ── PROJECT 1: Wikipedia Search Engine ── -->
 
 <div align="center">
 
 <a href="https://github.com/terminator1333/InformationRetrievalProj2025-26">
-  <img src="https://img.shields.io/badge/🔍_Wikipedia_Search_Engine-Information_Retrieval_Project-7B68EE?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🔍_Wikipedia_Search_Engine-Information_Retrieval-7B68EE?style=for-the-badge&labelColor=1a1b27" />
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆_Voted_2nd_Best_Project-in_Course-FFD700?style=for-the-badge&labelColor=1a1b27" />
 
 </div>
-
-<br/>
 
 ```
   📂 InformationRetrievalProj2025-26
   ├── 🔎 BM25 + Cosine Similarity ranking
   ├── 📊 PageRank & PageView integration
-  ├── ☁️ Deployed on Google Colab & GCP
-  ├── ⚙️ Grid search hyperparameter tuning
+  ├── ☁️  Deployed on Google Colab & GCP
+  ├── ⚙️  Grid search hyperparameter tuning
   └── 📚 Full English Wikipedia corpus (up to Aug 2021)
 ```
 
 <div align="center">
-
 <a href="https://github.com/terminator1333/InformationRetrievalProj2025-26">
   <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</div>
+
+<br/>
+
+<!-- ── PROJECT 2: Visualization Project ── -->
+
+<div align="center">
+
+<a href="https://github.com/terminator1333/VisualizationProject">
+  <img src="https://img.shields.io/badge/📊_Immigration_Data_Visualization-Streamlit_App-FF4B4B?style=for-the-badge&labelColor=1a1b27" />
 </a>
 
 </div>
 
+```
+  📂 VisualizationProject
+  ├── 📈 Interactive Streamlit dashboard
+  ├── 🗺️  GeoJSON district map visualization
+  ├── 📉 Plotly & Matplotlib charts
+  ├── 🔄 Multi-page data exploration
+  └── 🌐 Live app: streamlit.app
+```
+
 <div align="center">
+<a href="https://github.com/terminator1333/VisualizationProject">
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://visualizationproject-mzmzuho2fgrmkweanz6rmi.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</a>
+</div>
+
+<br/>
+
+<!-- ── PROJECT 3: Safari Synchronisation ── -->
+
+<div align="center">
+
+<a href="https://github.com/terminator1333/SafariSynchronisation">
+  <img src="https://img.shields.io/badge/🦁_Safari_Synchronisation-OS_Hackathon-2EA043?style=for-the-badge&labelColor=1a1b27" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆_Won_2nd_Place-Hackathon-FFD700?style=for-the-badge&labelColor=1a1b27" />
+
+</div>
+
+```
+  📂 SafariSynchronisation
+  ├── 🧵 Thread handling & concurrency in C#
+  ├── 🔒 Async tasks, locks, mutexes, semaphores
+  ├── 🛑 Cancellation Token patterns
+  └── 📝 Authored the technical report
+```
+
+<div align="center">
+<a href="https://github.com/terminator1333/SafariSynchronisation">
+  <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</div>
+
+<div align="center">
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 </div>
 
@@ -114,6 +168,9 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
 <br/><br/>
 
 **Languages**
@@ -124,7 +181,7 @@ fun_fact: This GitHub is way cooler than my Google Drive
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,gcp,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,firebase&theme=dark" />
 
 <br/><br/>
 
@@ -142,8 +199,7 @@ fun_fact: This GitHub is way cooler than my Google Drive
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator1333&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=terminator1333&theme=tokyonight&hide_border=true&border_radius=12" />
+<img width="55%" src="https://nirzak-streak-stats.vercel.app/?user=terminator1333&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -152,15 +208,15 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <div align="center">
 
 ```
-       ┌─────────────────────────────────────────────────┐
-       │                                                 │
-       │   "There is nothing more thrilling than         │
-       │    transforming raw data into                   │
-       │    meaningful insights."                        │
-       │                                                 │
-       │                              — me, probably     │
-       │                                                 │
-       └─────────────────────────────────────────────────┘
+    ┌──────────────────────────────────────────────────────┐
+    │                                                      │
+    │    "There is nothing more thrilling than             │
+    │     transforming raw data into                       │
+    │     meaningful insights."                            │
+    │                                                      │
+    │                                — me, probably        │
+    │                                                      │
+    └──────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -173,7 +229,9 @@ fun_fact: This GitHub is way cooler than my Google Drive
 
 <br/><br/>
 
-*Thanks for stopping by! Feel free to explore my repos.*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=400&height=30&lines=Thanks+for+stopping+by!+Feel+free+to+explore+%F0%9F%91%80" alt="Typing SVG" />
+</a>
 
 </div>
 
