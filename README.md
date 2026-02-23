@@ -19,21 +19,6 @@
 
 <br/>
 
-<!-- ASCII ART SECTION -->
-```
-         ╔═══════════════════════════════════════════════════════╗
-         ║                                                       ║
-         ║      ███████╗██╗   ██╗ █████╗ ██╗                    ║
-         ║      ██╔════╝╚██╗ ██╔╝██╔══██╗██║                    ║
-         ║      █████╗   ╚████╔╝ ███████║██║                    ║
-         ║      ██╔══╝    ╚██╔╝  ██╔══██║██║                    ║
-         ║      ███████╗   ██║   ██║  ██║███████╗               ║
-         ║      ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝               ║
-         ║                                                       ║
-         ║           data science · ml · research                ║
-         ╚═══════════════════════════════════════════════════════╝
-```
-
 ---
 
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;A bit about me</h2>
@@ -101,8 +86,8 @@ fun_fact: This GitHub is way cooler than my Google Drive
   📂 InformationRetrievalProj2025-26
   ├── 🔎 BM25 + Cosine Similarity ranking
   ├── 📊 PageRank & PageView integration
-  ├── ☁️  Deployed on Google Colab & GCP
-  ├── ⚙️  Grid search hyperparameter tuning
+  ├── ☁️ Deployed on Google Colab & GCP
+  ├── ⚙️ Grid search hyperparameter tuning
   └── 📚 Full English Wikipedia corpus (up to Aug 2021)
 ```
 
@@ -123,15 +108,11 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <div align="center">
 
 **Data & ML**
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" />
-
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black"/>
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
 <br/><br/>
 
 **Languages**
@@ -142,7 +123,7 @@ fun_fact: This GitHub is way cooler than my Google Drive
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,gcp,firebase&theme=dark" />
 
 <br/><br/>
 
