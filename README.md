@@ -143,7 +143,7 @@ fun_fact: This GitHub is way cooler than my Google Drive
   ├── 🧵 Thread handling & concurrency in C#
   ├── 🔒 Async tasks, locks, mutexes, semaphores
   ├── 🛑 Cancellation Token patterns
-  └── 📝 Authored the technical report
+  └── 📝 Developed Backend synchronisation methods and authored project report
 ```
 
 <div align="center">
