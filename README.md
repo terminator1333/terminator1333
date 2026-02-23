@@ -25,7 +25,7 @@ name: Eyal
 education:
   university: Ben-Gurion University of the Negev
   degree: B.Sc. Data Science (3rd Year)
-  achievement: Faculty's Honours List
+  achievement: Faculty's Honours List x2 (2024,2025)
 
 research:
   paper: "GAVEL: Towards rule-based safety through activation monitoring"
