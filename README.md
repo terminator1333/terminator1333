@@ -8,7 +8,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Turning+raw+data+into+meaningful+stories;3rd-Year+Data+Science+%40+BGU;Co-author+%7C+ICLR+2026;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Turning+raw+data+into+meaningful+stories;3rd-Year+Data+Science+%40+BGU;Co-author+%7C+ICLR+2026" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -35,7 +35,7 @@ research:
   venue: ICLR 2026 (co-author)
   topic: LLM safety via activation-based monitoring
 
-currently: Exploring new ideas, building things, crumbling data cookies 🍪
+currently: Research Assistant @ Offensive AI Lab 
 
 fun_fact: This GitHub is way cooler than my Google Drive
 ```
@@ -108,6 +108,7 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <div align="center">
 
 **Data & ML**
+
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white"/>
