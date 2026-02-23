@@ -131,7 +131,7 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <div align="center">
 
 <a href="https://github.com/terminator1333/SafariSynchronisation">
-  <img src="https://img.shields.io/badge/🦁_Safari_Synchronisation-OS_Hackathon-2EA043?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🦁_Safari_Synchronisation-Operating_Systems-2EA043?style=for-the-badge&labelColor=1a1b27" />
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/🏆_Won_2nd_Place-Hackathon-FFD700?style=for-the-badge&labelColor=1a1b27" />
@@ -204,22 +204,6 @@ fun_fact: This GitHub is way cooler than my Google Drive
 </div>
 
 <br/>
-
-<div align="center">
-
-```
-    ┌──────────────────────────────────────────────────────┐
-    │                                                      │
-    │    "There is nothing more thrilling than             │
-    │     transforming raw data into                       │
-    │     meaningful insights."                            │
-    │                                                      │
-    │                                — me, probably        │
-    │                                                      │
-    └──────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
