@@ -230,7 +230,7 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=2000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=630&height=30&lines=Thanks+for+stopping+by!+Explore+some+more+of+my+projects+in+my+profile%F0%9F%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=730&height=30&lines=Thanks+for+stopping+by!+Explore+some+more+of+my+projects+in+my+profile%F0%9F%91%80" alt="Typing SVG" />
 </a>
 
 </div>
