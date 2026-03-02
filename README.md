@@ -191,13 +191,11 @@ fun_fact: This GitHub is way cooler than my Google Drive
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java&theme=dark" />
 
-<br/><br/>
 
 **Databases & Cloud**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,firebase&theme=dark" />
 
-<br/><br/>
 
 **Tools**
 
