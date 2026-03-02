@@ -178,7 +178,6 @@ fun_fact: This GitHub is way cooler than my Google Drive
 **Data & ML**
 
 <img src="https://skillicons.dev/icons?i=python,pandas,numpy,scipy,sklearn,matplotlib,plotly,streamlit&theme=dark" />
-<img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white"/>
 
 <br/><br/>
 
