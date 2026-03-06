@@ -24,6 +24,10 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVmb2FjaDRhNGg4M2tyZjh4djYwamdna2pjdmhhMWQ3ZmJpYzhyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftAyb0CG1FNAIZt4SO/giphy.gif" width="280" alt="Data gif">
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3500&pause=1500&color=F7DC6F&center=true&vCenter=true&repeat=true&width=700&height=40&lines=To+say+that+I+don't+understand+anything+would+be+an+understatement" alt="Statement" />
+
 </div>
 
 ---
@@ -46,6 +50,13 @@ currently: Research Assistant @ Offensive AI Lab
 
 fun_fact: This GitHub is way cooler than my Google Drive
 ```
+
+<div align="center">
+
+<!-- ANIMATED SPOTIFY-STYLE BARS -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="contribution animation"/>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
@@ -207,11 +218,28 @@ fun_fact: This GitHub is way cooler than my Google Drive
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
 </div>
 
-<h2>⚡ GitHub Activitiy</h2>
+<h2>⚡ GitHub Activity</h2>
 
 <div align="center">
 
 <img width="55%" src="https://nirzak-streak-stats.vercel.app/?user=terminator1333&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br/><br/>
+
+<!-- GITHUB TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=terminator1333&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="80%" />
+
+<br/><br/>
+
+<!-- GITHUB STATS + TOP LANGS SIDE-BY-SIDE -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=terminator1333&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+&nbsp;
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator1333&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=terminator1333&theme=tokyo-night&hide_border=true&radius=12" />
 
 </div>
 
