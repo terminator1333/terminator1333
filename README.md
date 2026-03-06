@@ -226,18 +226,6 @@ fun_fact: This GitHub is way cooler than my Google Drive
 
 <br/><br/>
 
-<!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=terminator1333&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="80%" />
-
-<br/><br/>
-
-<!-- GITHUB STATS + TOP LANGS SIDE-BY-SIDE -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=terminator1333&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-&nbsp;
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator1333&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-<br/><br/>
-
 <!-- ACTIVITY GRAPH -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=terminator1333&theme=tokyo-night&hide_border=true&radius=12" />
 
